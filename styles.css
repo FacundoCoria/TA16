@@ -11,7 +11,7 @@ img {
     width: 100%;
 }
 
-@media (width > 427px) {
+@media (width > 425px) {
     body {
         background-color: green;
         font-size: 18px;
@@ -22,7 +22,7 @@ img {
     }
 }
 
-@media (width > 770px) {
+@media (width > 768px) {
     body {
         background-color: red;
         font-size: 24px;
